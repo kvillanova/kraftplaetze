@@ -1,0 +1,1 @@
+<?php $location = get_bloginfo('url'); header("Location: {$location}"); ?>
